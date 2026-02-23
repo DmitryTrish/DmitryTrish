@@ -11,6 +11,8 @@
     <img src="https://img.shields.io/badge/TypeScript-Expert-3178c6?style=flat-square&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/WebGPU-Enthusiast-purple?style=flat-square&logo=webgpu&logoColor=white" />
   </p>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DmitryTrish&theme=transparent&hide_border=true&stroke=transparent&ring=4fc08d&fire=4fc08d" width="75%" alt="Streak Stats" />
 </div>
 
 ---
